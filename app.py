@@ -18,7 +18,7 @@ google = oauth.register(
     access_token_params=None,
     authorize_params=None,
     api_base_url='https://www.googleapis.com/oauth2/v1/',
-        userinfo_endpoint='https://openidconnect.googleapis.com/v1/userinfo',  # This is only needed if using openId to fetch user info
+    userinfo_endpoint='https://openidconnect.googleapis.com/v1/userinfo',  # This is only needed if using openId to fetch user info
     client_kwargs={'scope': 'email profile'},
     server_metadata_url='https://accounts.google.com/.well-known/openid-configuration'
 )
