@@ -1,7 +1,16 @@
 # Quiz App
 
 I made this in a (4hr + 4hr) session to learn flask and authentication in
-python. for using locally follow these steps after cloning the repo
+python. 
+
+#### Screenshots
+
+![Questions](./screenshots/screenshot_203.jpg)
+![Results](./screenshots/screenshot_204.jpg)
+
+#### Running locally?
+
+for using locally follow these steps after cloning the repo
 
 -   create virtual enviroment
 
